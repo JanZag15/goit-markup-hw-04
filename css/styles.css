@@ -107,16 +107,10 @@ img {
 
 /* Icons styles */
 
-/* .portfolio-wrapper {
-} */
-
 .portfolio-icon {
   width: 64px;
   height: 64px;
 }
-
-/* .social-wrapper {
-} */
 
 .social-icon {
   width: 40px;
@@ -340,10 +334,10 @@ img {
   padding-bottom: 32px;
 }
 
-/* .social-list {
+/* .team-social-list {
 } */
 
-/* .social-item {
+/* .team-social-item {
 } */
 
 /* Team section */
@@ -417,6 +411,12 @@ img {
 } */
 
 /* .social-media-title {
+} */
+
+/* .footer-social-list {
+} */
+
+/* .footer-social-item {
 } */
 
 .footer-text {
