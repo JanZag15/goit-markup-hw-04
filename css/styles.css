@@ -107,10 +107,16 @@ img {
 
 /* Icons styles */
 
+/* .portfolio-wrapper {
+} */
+
 .portfolio-icon {
   width: 64px;
   height: 64px;
 }
+
+/* .social-wrapper {
+} */
 
 .social-icon {
   width: 40px;
@@ -339,6 +345,7 @@ img {
 
 /* .social-item {
 } */
+
 /* Team section */
 
 /* Our Portfolio section */
