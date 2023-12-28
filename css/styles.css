@@ -414,6 +414,16 @@ img {
     0px 1px 6px 0px rgba(46, 47, 66, 0.08);
 }
 
+.ourportfolio-wrapper {
+  position: relative;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
 .ourportfolio-item-img {
   margin-bottom: 32px;
   width: 360px;
