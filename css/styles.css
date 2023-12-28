@@ -105,6 +105,20 @@ img {
 }
 /* Logo styles */
 
+/* Icons styles */
+
+.portfolio-icon {
+  width: 64px;
+  height: 64px;
+}
+
+.social-icon {
+  width: 40px;
+  height: 40px;
+}
+
+/* Icons styles */
+
 /* Header section */
 .header {
   border-bottom: 1px solid #e7e9fc;
@@ -325,11 +339,6 @@ img {
 
 /* .social-item {
 } */
-
-.social-icon {
-  width: 40px;
-  height: 40px;
-}
 /* Team section */
 
 /* Our Portfolio section */
@@ -393,6 +402,15 @@ img {
   background-color: #2e2f42;
   padding: 100px 0;
 }
+
+/* .footer-list {
+} */
+
+/* .footer-item {
+} */
+
+/* .social-media-title {
+} */
 
 .footer-text {
   color: #f4f4fd;
