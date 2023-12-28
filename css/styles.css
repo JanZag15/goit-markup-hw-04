@@ -154,6 +154,19 @@ img {
   color: #404bbf;
 }
 
+.header-link.active {
+  color: #404bbf;
+}
+
+.header-link.active::after {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 4px;
+  border-radius: 2px;
+  background-color: #404BBF;
+}
+
 .contacts {
   display: block;
   padding-top: 24px;
