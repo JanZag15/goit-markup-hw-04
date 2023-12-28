@@ -319,6 +319,17 @@ img {
   letter-spacing: 0.02em;
   padding-bottom: 32px;
 }
+
+/* .social-list {
+} */
+
+/* .social-item {
+} */
+
+.social-icon {
+  width: 40px;
+  height: 40px;
+}
 /* Team section */
 
 /* Our Portfolio section */
