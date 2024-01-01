@@ -491,6 +491,11 @@ img {
   padding: 100px 0;
 }
 
+.footer .container {
+  display: flex;
+  align-items: baseline;
+}
+
 .footer-text {
   color: #f4f4fd;
   line-height: 1.5;
