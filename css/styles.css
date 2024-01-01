@@ -308,11 +308,12 @@ img {
   background-color: #f4f4fd;
   border: 1px solid #8e8f99;
   border-radius: 4px;
+  margin-bottom: 8px;
 }
 
 .portfolio-icon {
-  width: 64px;
-  height: 64px;
+  width: 64;
+  height: 64;
 }
 /* Portfolio section */
 
