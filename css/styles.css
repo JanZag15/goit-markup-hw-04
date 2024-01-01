@@ -493,7 +493,7 @@ img {
 
 .footer .container {
   display: flex;
-  align-items: baseline;
+  align-items: baseline
 }
 
 .footer-text {
@@ -556,7 +556,3 @@ img {
   fill: currentColor;
 }
 /* Footer section */
-
-.delete-item {
-  margin-right: 120px
-}
