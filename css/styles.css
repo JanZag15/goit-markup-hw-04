@@ -480,6 +480,10 @@ button {
   line-height: 1.17;
 }
 
+.box-logo {
+  margin-bottom: 16px;
+}
+
 .footer-text {
   display: flex;
   max-width: 264px;
